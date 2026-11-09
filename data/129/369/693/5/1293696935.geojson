@@ -43,7 +43,7 @@
         "gn:id":2306645
     },
     "wof:country":"GQ",
-    "wof:geomhash":"148111a4febf7f6b3b89d01760707651",
+    "wof:geomhash":"0613b93e7645f78adc0a69399c4202d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     10.0,
     0.96667
 ],
-  "geometry": {"coordinates":[10.0,0.96667],"type":"Point"}
+  "geometry": {"coordinates":[10,0.96667],"type":"Point"}
 }
