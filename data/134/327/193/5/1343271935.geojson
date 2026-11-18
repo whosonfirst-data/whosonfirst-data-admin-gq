@@ -98,9 +98,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mico"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u7c73\u79d1\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u7c73\u79d1"
     ],
@@ -127,7 +124,7 @@
         }
     ],
     "wof:id":1343271935,
-    "wof:lastmodified":1636503067,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mico",
     "wof:parent_id":1108785277,
     "wof:placetype":"locality",
