@@ -1,0 +1,75 @@
+{
+  "id": 9895028224,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82361,1.5925,10.82361,1.5925",
+    "geom:latitude":1.5925,
+    "geom:longitude":10.82361,
+    "gn:population":2000,
+    "iso:country":"GQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226438: name \"Ciudad de la Paz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226438"
+        },
+        {
+            "citation":"GeoNames populated place 12226438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226438"
+        },
+        {
+            "citation":"GeoNames populated place 12226438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226438"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785225 (Aconibe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287,
+        85671591,
+        102191573,
+        1108785225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226438
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"8c7181e495328971440e9de4f8170194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "county_id":1108785225,
+            "locality_id":9895028224,
+            "region_id":85671591
+        }
+    ],
+    "wof:id":9895028224,
+    "wof:lastmodified":1795735270,
+    "wof:name":"Ciudad de la Paz",
+    "wof:parent_id":1108785225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82361,
+    1.5925,
+    10.82361,
+    1.5925
+],
+  "geometry": {"coordinates":[10.82361,1.5925],"type":"Point"}
+}
