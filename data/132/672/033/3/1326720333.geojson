@@ -26,9 +26,33 @@
     "lbl:bbox":"10.81391,1.60162,10.85391,1.64162",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this city: English and Spanish labels and item id, read on 2026-11-26. Oyala was renamed Ciudad de la Paz in 2017.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q1140136"
+        },
+        {
+            "citation":"Wikidata, the item of this city: English and Spanish labels and item id, read on 2026-11-26. Oyala was renamed Ciudad de la Paz in 2017.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q1140136"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ciudad de la Paz"
+    ],
+    "name:eng_x_variant":[
+        "Oyala"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad de la Paz"
+    ],
+    "name:spa_x_variant":[
+        "Oyala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2306898,
+        "wd:id":"Q1140136",
         "wk:page":"Oyala"
     },
     "wof:country":"GQ",
@@ -53,8 +78,8 @@
         }
     ],
     "wof:id":1326720333,
-    "wof:lastmodified":1566640170,
-    "wof:name":"Oyala",
+    "wof:lastmodified":1795733124,
+    "wof:name":"Ciudad de la Paz",
     "wof:parent_id":1108785229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gq",
