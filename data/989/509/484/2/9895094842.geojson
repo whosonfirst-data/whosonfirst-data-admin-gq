@@ -1,0 +1,74 @@
+{
+  "id": 9895094842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82252,1.59358,10.82252,1.59358",
+    "geom:latitude":1.59358,
+    "geom:longitude":10.82252,
+    "iso:country":"GQ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12168385 (Djibloho): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12168385"
+        },
+        {
+            "citation":"GeoNames division 12168385 (Djibloho): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12168385"
+        },
+        {
+            "citation":"GeoNames division 12168385 (Djibloho): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12168385"
+        },
+        {
+            "citation":"GeoNames division 12168385 (Djibloho): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12168385"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Djibloho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632287,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12168385
+    },
+    "wof:country":"GQ",
+    "wof:geomhash":"6ab7598ffe501aaa752fe7246dd7407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632287,
+            "region_id":9895094842
+        }
+    ],
+    "wof:id":9895094842,
+    "wof:lastmodified":1795801351,
+    "wof:name":"Djibloho",
+    "wof:parent_id":85632287,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-gq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82252,
+    1.59358,
+    10.82252,
+    1.59358
+],
+  "geometry": {"coordinates":[10.82252,1.59358],"type":"Point"}
+}
